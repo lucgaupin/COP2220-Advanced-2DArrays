@@ -4,7 +4,10 @@
 //***		Purpose...: 2DArrays	          ***
 //***********************************************
 
-#include "C:\Users\juluc\Desktop\Files\School\myTemplate.h"
+#include stdlib.h
+#include stdio.h
+#include string.h
+
 #define ROWS 5
 #define COLS 2
 
